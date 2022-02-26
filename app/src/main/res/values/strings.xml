@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RegisterAndSaveValueApp</string>
+    <string name="text_fullName">Full Name</string>
+    <string name="text_userName">Username</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="text_retype_password">Re-Type Password</string>
+    <string name="text_register">Register</string>
+    <string name="text_save">Save</string>
+    <string name="text_female">Female</string>
+    <string name="text_male">Male</string>
+    <string name="text_gender">Gender</string>
+    <string name="toast_fullName">FullName is empty</string>
+    <string name="toast_userName">UserName is empty</string>
+    <string name="toast_email">Email is empty</string>
+    <string name="toast_password">Password is empty</string>
+    <string name="toast_retype_password">Retype Password is empty</string>
+    <string name="toast_match_not_passwords">Re-type Password is not Password</string>
+    <string name="toast_gender">Gender is empty</string>
+    <string name="toast_saved_value">Data is saved</string>
+</resources>
